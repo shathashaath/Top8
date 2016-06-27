@@ -1,0 +1,40 @@
+img {
+  width: 200px;
+  height: auto;
+}
+
+/*p {
+  width: 66px;
+}*/
+
+/*.row-words{
+  float: left;
+}*/
+h3 {
+  background-color: #ffce99;
+}
+
+.bike {
+  float: left;
+  margin-right: 50px;
+  width: 200px;
+}
+.blonde{
+  float: left;
+  margin-right: 50px;
+  width: 200px;
+}
+.blue{
+  float: left;
+  margin-right: 50px;
+  width: 200px;
+}
+.butterfly{
+  float: left;
+  margin-right: 50px;
+  width: 200px;
+}
+
+p {
+  text-align: center;
+}
